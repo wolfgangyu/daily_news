@@ -1,2 +1,2 @@
-# km
-My knowledge management
+# 每日新聞快遞
+使用 Horzian 的 AI 新聞主播台，期望新聞更為中立且直接。
