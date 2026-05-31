@@ -1,6 +1,6 @@
 # 📡 每日新聞速遞
 
-由 [Horizon](https://github.com/Thysrael/Horizon) AI 自動產生的每日科技新聞摘要，使用[繁體中文版 fork](https://github.com/wolfgangyu/Horizon-zh-tw) 建置。
+由 [Horizon](https://github.com/Thysrael/Horizon) AI 自動產生的每日新聞摘要，使用[繁體中文版 fork](https://github.com/wolfgangyu/Horizon-zh-tw) 建置。
 
 🌐 **線上閱讀**：[www.519275.xyz](https://www.519275.xyz/)
 
