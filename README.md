@@ -8,9 +8,11 @@
 
 此網站每天早上 7:30（台灣時間）自動更新，AI 從多個來源蒐集新聞，經過評分、去重、補充背景知識後，產生結構化的繁體中文摘要。
 
+涵蓋主題：**AI 科技**、**台灣時事**、**國際政治**、**體育**、**知識管理**。
+
 ### 新聞來源
 
-- **Hacker News** — 科技社群熱門文章
+- **Hacker News** — 科技與綜合社群熱門文章
 - **Reddit** — r/MachineLearning、r/artificial、r/ClaudeAI、r/taiwan、r/PKMS
 - **RSS** — Simon Willison、OpenAI、iThome、NHK、NYT、WSJ、中央社
 - **Twitter/X** — @elonmusk、@karpathy、@ChingteLai、@iingwen 等
