@@ -17,12 +17,14 @@
 - **RSS** — Simon Willison、OpenAI、iThome、NHK、NYT、WSJ、中央社
 - **Twitter/X** — @elonmusk、@karpathy、@ChingteLai、@iingwen 等
 - **GitHub** — torvalds、claude-code、ollama、uv 等專案動態
+- **Threads** — 賴清德、蔡英文等（透過自架 RSSHub）
 - **OSS Insight** — GitHub 每日趨勢專案
 
 ### 技術架構
 
 - **AI 模型**：[Ollama](https://ollama.com/) 本地模型（gemma4:e4b），無需付費 API
 - **執行方式**：Docker Compose，每日 cron 排程
+- **RSS 擴充**：自架 [RSSHub](https://github.com/DIYgod/RSSHub) 提供 Threads 等來源
 - **發佈方式**：自動推送至此 repo，由 Jekyll + GitHub Pages 建置
 
 ## 相關連結
