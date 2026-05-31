@@ -1,0 +1,19 @@
+title: "每日新聞速遞"
+description: "由 Horizon AI 自動產生的每日科技新聞摘要"
+baseurl: "/daily_news"
+url: "https://wolfgangyu.github.io"
+timezone: Asia/Taipei
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+plugins:
+  - jekyll-seo-tag
